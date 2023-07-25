@@ -1,5 +1,5 @@
 # 💫 About Me: KAMESHWARAN M
-🔭 I’m currently working on SkillFilio<br>🤝 I would appreciate any help on the above projects<br>🌱 I’m currently learning Javascript and React<br>💬 Ask me about Java, C, Python or anything in general<br>📫 You can reach me at kameshwaran2002@gmail.com
+🔭 I’m currently working on SkillFilio<br>🤝 I would appreciate any help on the above projects<br>🌱 I’m currently learning Javascript and React<br>💬 Ask me about Javascript , ReactJS , nodeJS , Java ,NextJS or anything in general<br>📫 You can reach me at kameshwaran2002@gmail.com
 
 
 ## 🌐 Socials:
